@@ -1,0 +1,1673 @@
+  .image-1 {
+    width: 450px;
+    height: 300px;
+    border-radius: 1px;
+    margin-left: 0px;
+  }
+
+  .logo-1 {
+    margin-left: 135px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+
+  .fa {
+    color: #009688;
+  }
+
+  .p-2 {
+    position: absolute;
+    bottom: 400px;
+    left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+  }
+
+  .h2-1 {
+    position: absolute;
+    top: 500px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+  }
+
+  .p-3 {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 55px;
+    position: absolute;
+    top: 555px;
+    color: gray;
+  }
+
+  .body-1 {
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+    width: 450px;
+    height: 1300px;
+    margin-left: 60px;
+    margin-top: 10px;
+  }
+
+  .logo-1 {
+    margin-left: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: gray;
+  }
+
+  .logo-2 {
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+  }
+
+  .logo-3 {
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+  }
+  .logo-4 {
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+  }
+  .hr-1 {
+      border: 0;
+      border-top: 1px solid #eee;
+      margin: 20px 0;
+  }
+
+  .Adobe-Photoshop {
+      width: 350px;
+      height: 20px;
+      background-color: #009688 !important;
+      position: absolute;
+      top: 614px;
+      left: 100px;
+      border-radius: 10px;
+      z-index: 99;
+  }
+
+  .nine-zero {
+      position: absolute;
+      left: 160px;
+      top: -13px;
+      color: white;
+  }
+
+  .Adobe-Photoshop2 {
+      width: 400px;
+      height: 20px;
+      background-color: rgb(225, 225, 225);
+      position: absolute;
+      top: 614px;
+      left: 100px;
+      border-radius: 10px;
+  }
+
+
+
+  .Photography {
+      width: 310px;
+      height: 20px;
+      background-color: #009688 !important;
+      position: absolute;
+      top: 700px;
+      left: 100px;
+      border-radius: 10px;
+      z-index: 99;
+  }
+
+  .eight-zero {
+      position: absolute;
+      left: 160px;
+      top: -13px;
+      color: white;
+  }
+
+  .Photography2 {
+      width: 400px;
+      height: 20px;
+      background-color: rgb(225, 225, 225);
+      position: absolute;
+      top: 700px;
+      left: 100px;
+      border-radius: 10px;
+  }
+
+  .Illustrator {
+      width: 285px;
+      height: 20px;
+      background-color: #009688 !important;
+      position: absolute;
+      top: 780px;
+      left: 100px;
+      border-radius: 10px;
+      z-index: 99;
+  }
+
+  .seven-five {
+      position: absolute;
+      left: 160px;
+      top: -13px;
+      color: white;
+  }
+
+  .Illustrator2 {
+      width: 400px;
+      height: 20px;
+      background-color: rgb(225, 225, 225);
+      position: absolute;
+      top: 780px;
+      left: 100px;
+      border-radius: 10px;
+  }
+
+  .media {
+    width: 200px;
+    height: 20px;
+    background-color: #009688 !important;
+    position: absolute;
+    top: 860px;
+    left: 100px;
+    border-radius: 10px;
+    z-index: 99;
+  }
+
+  .five-zero {
+    position: absolute;
+    left: 160px;
+    top: -13px;
+    color: white;
+  }
+
+  .media-2 {
+    width: 400px;
+    height: 20px;
+    background-color: rgb(225, 225, 225);
+    position: absolute;
+    top: 860px;
+    left: 100px;
+    border-radius: 10px;
+  }
+
+  .english {
+    width: 400px;
+    height: 24px;
+    background-color: #009688 !important;
+    position: absolute;
+    top: 1020px;
+    left: 100px;
+    border-radius: 40px;
+    z-index: 99;
+  }
+
+  .spanish {
+    width: 200px;
+    height: 24px;
+    background-color: #009688 !important;
+    position: absolute;
+    top: 1120px;
+    left: 100px;
+    border-radius: 40px;
+    z-index: 99;
+  }
+
+  .spanish-2 {
+    width: 400px;
+    height: 24px;
+    background-color: rgb(225, 225, 225);
+    position: absolute;
+    top: 1120px;
+    left: 100px;
+    border-radius: 40px;
+  }
+
+  .german {
+    width: 100px;
+    height: 24px;
+    background-color: #009688 !important;
+    position: absolute;
+    top: 1200px;
+    left: 100px;
+    border-radius: 40px;
+    z-index: 99;
+  }
+
+  .german-2 {
+    width: 400px;
+    height: 24px;
+    background-color: rgb(225, 225, 225);
+    position: absolute;
+    top: 1200px;
+    left: 100px;
+    border-radius: 40px;
+  }
+
+
+  .p-4 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 645px;
+    left: 110px;
+    color: gray;
+  }
+
+  .p-5 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 725px;
+    left: 110px;
+    color: gray;
+  }
+
+  .p-6 {
+    font-family:Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 809.999999999999999999999999899999999999999997999985416982px;
+    left: 110px;
+    color: gray;
+  }
+
+  .p-7 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 910px;
+    left: 110px;
+    color: gray;
+  }
+
+  .p-8 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 965px;
+    left: 110px;
+    color: gray;
+  }
+
+  .p-9 {
+    font-family:Arial, Helvetica, sans-serif;
+    color: gray;
+    position: absolute;
+    top: 1060px;
+    left: 110px;
+  }
+
+  .p-10 {
+    font-family:Arial, Helvetica, sans-serif;
+    color: gray;
+    position: absolute;
+    top: 1150px;
+    left: 110px;
+  }
+
+  /** end of the left side **/
+
+  .body-2 {
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+    width: 915px;
+    height: 565px;
+    margin-left: 525px;
+    position: absolute;
+    top: 10px;
+  }
+
+  .logo-5 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    padding-left: 10px;
+  }
+
+  .p-11 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-left: 35px;
+    margin-top:55px ;
+  }
+
+  .p-12 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #009688;
+    margin-left: 35px;
+  }
+
+  span {
+    color: white;
+    background-color: #009688;
+    font-family: Arial, Helvetica, sans-serif;
+    border: #009688 5px solid;
+    border-radius: 10px ;
+  }
+
+  .p-13 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35px;
+  }
+
+  .hr-2 {
+      border: 0;
+      border-top: 1px solid #eee;
+      margin: 20px 0;
+  }
+
+  .p-14 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-left: 35px;
+    margin-top: 35px;
+  }
+  .p-15 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #009688;
+    margin-left: 35px;
+  }
+
+  .p-16 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35px;
+  }
+
+  .hr-3 {
+      border: 0;
+      border-top: 1px solid #eee;
+      margin: 20px 0;
+  }
+
+  .p-18 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-left: 35px;
+  }
+
+  .p-19 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #009688;
+    margin-left: 35px;
+  }
+
+  .p-20 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35px;
+  }
+
+  /** end of body-2 **/
+
+  .body-3 {
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+    width: 915px;
+    height: 700px;
+    margin-left: 525px;
+    position: absolute;
+    top: 600px;
+  }
+
+  .p-21 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-left: 30px;
+  }
+
+  .p-22 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-left: 35px;
+    margin-top:55px ;
+  }
+
+  .p-23 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #009688;
+    margin-left: 35px;
+  }
+
+  .p-24 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35px;
+  }
+
+  .hr-4 {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+  }
+
+  .p-25 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-left: 35px;
+    margin-top:55px ;
+  }
+
+  .p-26 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #009688;
+    margin-left: 35px;
+  }
+
+  .p-27 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35px;
+  }
+
+  .hr-5 {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+  }
+
+
+  .p-28 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-left: 35px;
+    margin-top:55px ;
+  }
+
+  .p-29 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #009688;
+    margin-left: 35px;
+  }
+
+  .p-30 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35px;
+  }
+
+  .hr-6 {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+  }
+
+  /** end of body-3 **/
+
+  .foot {
+    width: 1700px;
+    height: 140px;
+    margin-left: 465px;
+    position: absolute;
+    top: 1350px;
+    right: 0px;
+    background-color: #009688;
+  }
+
+  .p-31 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 0px;
+    left: 800px;
+  }
+
+  .w3-hover-opacity {
+    color: white;
+  }
+
+  .fa-facebook-official {
+    position: absolute;
+    left: 830px;
+    top: 55px;
+  }
+
+  .fa-instagram {
+    position: absolute;
+    left: 850px;
+    top: 55px;
+  }
+
+  .fa-snapchat {
+    position: absolute;
+    left: 870px;
+    top: 55px;
+  }
+
+  .fa-pinterest-p {
+    position: absolute;
+    left: 890px;
+    top: 55px;
+  }
+
+  .fa-twitter {
+    position: absolute;
+    left: 910px;
+    top: 55px;
+  }
+
+  .fa-linkedin {
+    position: absolute;
+    left: 930px;
+    top: 55px;
+  }
+
+  .last {
+    color: white;
+    position: absolute;
+    top: 70px;
+    left: 830px;
+  }
+
+  a {
+    color: white;
+  }
+
+  
+
+
+
+
+
+  @media only screen and  (max-width: 768px ) {
+   
+    .image-1 {
+      width: 250px;
+      height: 200px;
+      border-radius: 1px;
+      margin-left: 0px;
+    }
+  
+    .logo-1 {
+      margin-left: 135px;
+      font-family:Arial, Helvetica, sans-serif;
+    }
+  
+    .fa {
+      color: #009688;
+    }
+  
+    .p-2 {
+      position: absolute;
+      bottom: 480px;
+      left: 100px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: black;
+    }
+  
+    .h2-1 {
+      position: absolute;
+      top: 365px;
+      margin-left: 50px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+    }
+  
+    .p-3 {
+      font-family:Arial, Helvetica, sans-serif;
+      margin-left: 25px;
+      position: absolute;
+      top: 430px;
+      color: gray;
+    }
+  
+    .body-1 {
+      box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+      width: 250px;
+      height: 1200px;
+      margin-left: 60px;
+      margin-top: 10px;
+    }
+  
+    .logo-1 {
+      margin-left: 50px;
+      font-family:Arial, Helvetica, sans-serif;
+      color: gray;
+    }
+  
+    .logo-2 {
+      margin-left: 50px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+    }
+  
+    .logo-3 {
+      margin-left: 50px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+    }
+    .logo-4 {
+      margin-left: 50px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+    }
+    .hr-1 {
+        border: 0;
+        border-top: 1px solid #eee;
+        margin: 20px ;
+    }
+  
+    .Adobe-Photoshop {
+        width: 200px;
+        height: 20px;
+        background-color: #009688 !important;
+        position: absolute;
+        top: 514px;
+        left: 80px;
+        border-radius: 10px;
+        z-index: 99;
+    }
+  
+    .nine-zero {
+        position: absolute;
+        left: 90px;
+        top: -13px;
+        color: white;
+    }
+  
+    .Adobe-Photoshop2 {
+        width: 210px;
+        height: 20px;
+        background-color: rgb(225, 225, 225);
+        position: absolute;
+        top: 514px;
+        left: 100px;
+        border-radius: 10px;
+    }
+  
+  
+  
+    .Photography {
+        width: 170px;
+        height: 20px;
+        background-color: #009688 !important;
+        position: absolute;
+        top: 600px;
+        left: 80px;
+        border-radius: 10px;
+        z-index: 99;
+    }
+  
+    .eight-zero {
+        position: absolute;
+        left: 70px;
+        top: -13px;
+        color: white;
+    }
+  
+    .Photography2 {
+        width: 210px;
+        height: 20px;
+        background-color: rgb(225, 225, 225);
+        position: absolute;
+        top: 600px;
+        left: 100px;
+        border-radius: 10px;
+    }
+  
+    .Illustrator {
+        width: 150px;
+        height: 20px;
+        background-color: #009688 !important;
+        position: absolute;
+        top: 700px;
+        left: 80px;
+        border-radius: 10px;
+        z-index: 99;
+    }
+  
+    .seven-five {
+        position: absolute;
+        left: 60px;
+        top: -13px;
+        color: white;
+    }
+  
+    .Illustrator2 {
+        width: 210px;
+        height: 20px;
+        background-color: rgb(225, 225, 225);
+        position: absolute;
+        top: 700px;
+        left: 100px;
+        border-radius: 10px;
+    }
+  
+    .media {
+      width: 110px;
+      height: 20px;
+      background-color: #009688 !important;
+      position: absolute;
+      top: 790px;
+      left: 80px;
+      border-radius: 10px;
+      z-index: 99;
+    }
+  
+    .five-zero {
+      position: absolute;
+      left: 45px;
+      top: -13px;
+      color: white;
+    }
+  
+    .media-2 {
+      width: 210px;
+      height: 20px;
+      background-color: rgb(225, 225, 225);
+      position: absolute;
+      top: 790px;
+      left: 100px;
+      border-radius: 10px;
+    }
+  
+    .english {
+      width: 220px;
+      height: 24px;
+      background-color: #009688 !important;
+      position: absolute;
+      top: 950px;
+      left: 80px;
+      border-radius: 40px;
+      z-index: 99;
+    }
+  
+    .spanish {
+      width: 120px;
+      height: 24px;
+      background-color: #009688 !important;
+      position: absolute;
+      top: 1035px;
+      left: 80px;
+      border-radius: 40px;
+      z-index: 99;
+    }
+  
+    .spanish-2 {
+      width: 200px;
+      height: 24px;
+      background-color: rgb(225, 225, 225);
+      position: absolute;
+      top: 1035px;
+      left: 100px;
+      border-radius: 40px;
+    }
+  
+    .german {
+      width: 50px;
+      height: 24px;
+      background-color: #009688 !important;
+      position: absolute;
+      top: 1130px;
+      left: 80px;
+      border-radius: 40px;
+      z-index: 99;
+    }
+  
+    .german-2 {
+      width: 200px;
+      height: 24px;
+      background-color: rgb(225, 225, 225);
+      position: absolute;
+      top: 1130px;
+      left: 100px;
+      border-radius: 40px;
+    }
+  
+  
+    .p-4 {
+      font-family: Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 545px;
+      left: 90px;
+      color: gray;
+    }
+  
+    .p-5 {
+      font-family: Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 635px;
+      left: 90px;
+      color: gray;
+    }
+  
+    .p-6 {
+      font-family:Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 730px;
+      left: 90px;
+      color: gray;
+    }
+  
+    .p-7 {
+      font-family: Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 840px;
+      left: 90px;
+      color: gray;
+    }
+  
+    .p-8 {
+      font-family: Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 895px;
+      left: 90px;
+      color: gray;
+    }
+  
+    .p-9 {
+      font-family:Arial, Helvetica, sans-serif;
+      color: gray;
+      position: absolute;
+      top: 980px;
+      left: 90px;
+    }
+  
+    .p-10 {
+      font-family:Arial, Helvetica, sans-serif;
+      color: gray;
+      position: absolute;
+      top: 1070px;
+      left: 90px;
+    }
+
+
+    .body-2 {
+      box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+      width: 400px;
+      height: 780px;
+      margin-left: 730px;
+      position: absolute;
+      top: 10px;
+      left: -390px;
+    }
+    
+    .logo-5 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      padding-left: 10px;
+    }
+    
+    .p-11 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 35px;
+      margin-top:55px ;
+    }
+    
+    .p-12 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #009688;
+      margin-left: 35px;
+    }
+    
+    span {
+      color: white;
+      background-color: #009688;
+      font-family: Arial, Helvetica, sans-serif;
+      border: #009688 5px solid;
+      border-radius: 10px ;
+    }
+    
+    .p-13 {
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 35px;
+    }
+    
+    .hr-2 {
+        border: 0;
+        border-top: 1px solid #eee;
+        margin: 20px 0;
+    }
+    
+    .p-14 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 35px;
+      margin-top: 35px;
+    }
+    .p-15 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #009688;
+      margin-left: 35px;
+    }
+    
+    .p-16 {
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 35px;
+    }
+    
+    .hr-3 {
+        border: 0;
+        border-top: 1px solid #eee;
+        margin: 20px 0;
+    }
+    
+    .p-18 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 35px;
+    }
+    
+    .p-19 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #009688;
+      margin-left: 35px;
+    }
+    
+    .p-20 {
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 35px;
+    }
+    
+    /** end of body-2 **/
+    
+    .body-3 {
+      box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+      width: 400px;
+      height: 630px;
+      margin-left: 465px;
+      position: absolute;
+      top: 810px;
+      left:-125px;
+    }
+    
+    .p-21 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 30px;
+    }
+    
+    .p-22 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 35px;
+      margin-top:55px ;
+    }
+    
+    .p-23 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #009688;
+      margin-left: 35px;
+    }
+    
+    .p-24 {
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 35px;
+    }
+    
+    .hr-4 {
+      border: 0;
+      border-top: 1px solid #eee;
+      margin: 20px 0;
+    }
+    
+    .p-25 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 35px;
+      margin-top:55px ;
+    }
+    
+    .p-26 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #009688;
+      margin-left: 35px;
+    }
+    
+    .p-27 {
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 35px;
+    }
+    
+    .hr-5 {
+      border: 0;
+      border-top: 1px solid #eee;
+      margin: 20px 0;
+    }
+    
+    
+    .p-28 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 35px;
+      margin-top:55px ;
+    }
+    
+    .p-29 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #009688;
+      margin-left: 35px;
+    }
+    
+    .p-30 {
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 35px;
+    }
+    
+    .hr-6 {
+      border: 0;
+      border-top: 1px solid #eee;
+      margin: 20px 0;
+    }
+    
+    /** end of body-3 **/
+    
+    .foot {
+      width: 752px;
+      height: 140px;
+      margin-left: 465px;
+      position: absolute;
+      top: 1455px;
+      left: -470px;
+      background-color: #009688;
+    }
+
+    .p-31 {
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 0px;
+      left: 250px;
+    }
+    
+    .w3-hover-opacity {
+      color: white;
+    }
+    
+    .fa-facebook-official {
+      position: absolute;
+      left: 280px;
+      top: 55px;
+    }
+    
+    .fa-instagram {
+      position: absolute;
+      left: 300px;
+      top: 55px;
+    }
+    
+    .fa-snapchat {
+      position: absolute;
+      left: 320px;
+      top: 55px;
+    }
+    
+    .fa-pinterest-p {
+      position: absolute;
+      left: 340px;
+      top: 55px;
+    }
+    
+    .fa-twitter {
+      position: absolute;
+      left: 360px;
+      top: 55px;
+    }
+    
+    .fa-linkedin {
+      position: absolute;
+      left: 380px;
+      top: 55px;
+    }
+    
+    .last {
+      color: white;
+      position: absolute;
+      top: 70px;
+      left: 270px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .a {
+      color: white;
+    }
+  }
+
+
+
+
+  @media only screen and (max-width: 600px){
+   
+
+    .image-1 {
+      width: 450px;
+      height: 300px;
+      border-radius: 1px;
+      margin-left: 0px;
+    }
+  
+    .logo-1 {
+      margin-left: 135px;
+      font-family:Arial, Helvetica, sans-serif;
+    }
+  
+    .fa {
+      color: #009688;
+    }
+  
+    .p-2 {
+      position: absolute;
+      bottom: 400px;
+      left: 100px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: black;
+    }
+  
+    .h2-1 {
+      position: absolute;
+      top: 500px;
+      margin-left: 50px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+    }
+  
+    .p-3 {
+      font-family:Arial, Helvetica, sans-serif;
+      margin-left: 55px;
+      position: absolute;
+      top: 555px;
+      color: gray;
+    }
+  
+    .body-1 {
+      box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+      width: 450px;
+      height: 1300px;
+      margin-left: 60px;
+      margin-top: 10px;
+    }
+  
+    .logo-1 {
+      margin-left: 50px;
+      font-family:Arial, Helvetica, sans-serif;
+      color: gray;
+    }
+  
+    .logo-2 {
+      margin-left: 50px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+    }
+  
+    .logo-3 {
+      margin-left: 50px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+    }
+    .logo-4 {
+      margin-left: 50px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+    }
+    .hr-1 {
+        border: 0;
+        border-top: 1px solid #eee;
+        margin: 20px 0;
+    }
+  
+    .Adobe-Photoshop {
+        width: 350px;
+        height: 20px;
+        background-color: #009688 !important;
+        position: absolute;
+        top: 614px;
+        left: 100px;
+        border-radius: 10px;
+        z-index: 99;
+    }
+  
+    .nine-zero {
+        position: absolute;
+        left: 160px;
+        top: -13px;
+        color: white;
+    }
+  
+    .Adobe-Photoshop2 {
+        width: 400px;
+        height: 20px;
+        background-color: rgb(225, 225, 225);
+        position: absolute;
+        top: 614px;
+        left: 100px;
+        border-radius: 10px;
+    }
+  
+  
+  
+    .Photography {
+        width: 310px;
+        height: 20px;
+        background-color: #009688 !important;
+        position: absolute;
+        top: 700px;
+        left: 100px;
+        border-radius: 10px;
+        z-index: 99;
+    }
+  
+    .eight-zero {
+        position: absolute;
+        left: 160px;
+        top: -13px;
+        color: white;
+    }
+  
+    .Photography2 {
+        width: 400px;
+        height: 20px;
+        background-color: rgb(225, 225, 225);
+        position: absolute;
+        top: 700px;
+        left: 100px;
+        border-radius: 10px;
+    }
+  
+    .Illustrator {
+        width: 285px;
+        height: 20px;
+        background-color: #009688 !important;
+        position: absolute;
+        top: 780px;
+        left: 100px;
+        border-radius: 10px;
+        z-index: 99;
+    }
+  
+    .seven-five {
+        position: absolute;
+        left: 160px;
+        top: -13px;
+        color: white;
+    }
+  
+    .Illustrator2 {
+        width: 400px;
+        height: 20px;
+        background-color: rgb(225, 225, 225);
+        position: absolute;
+        top: 780px;
+        left: 100px;
+        border-radius: 10px;
+    }
+  
+    .media {
+      width: 200px;
+      height: 20px;
+      background-color: #009688 !important;
+      position: absolute;
+      top: 860px;
+      left: 100px;
+      border-radius: 10px;
+      z-index: 99;
+    }
+  
+    .five-zero {
+      position: absolute;
+      left: 160px;
+      top: -13px;
+      color: white;
+    }
+  
+    .media-2 {
+      width: 400px;
+      height: 20px;
+      background-color: rgb(225, 225, 225);
+      position: absolute;
+      top: 860px;
+      left: 100px;
+      border-radius: 10px;
+    }
+  
+    .english {
+      width: 400px;
+      height: 24px;
+      background-color: #009688 !important;
+      position: absolute;
+      top: 1020px;
+      left: 100px;
+      border-radius: 40px;
+      z-index: 99;
+    }
+  
+    .spanish {
+      width: 200px;
+      height: 24px;
+      background-color: #009688 !important;
+      position: absolute;
+      top: 1120px;
+      left: 100px;
+      border-radius: 40px;
+      z-index: 99;
+    }
+  
+    .spanish-2 {
+      width: 400px;
+      height: 24px;
+      background-color: rgb(225, 225, 225);
+      position: absolute;
+      top: 1120px;
+      left: 100px;
+      border-radius: 40px;
+    }
+  
+    .german {
+      width: 100px;
+      height: 24px;
+      background-color: #009688 !important;
+      position: absolute;
+      top: 1200px;
+      left: 100px;
+      border-radius: 40px;
+      z-index: 99;
+    }
+  
+    .german-2 {
+      width: 400px;
+      height: 24px;
+      background-color: rgb(225, 225, 225);
+      position: absolute;
+      top: 1200px;
+      left: 100px;
+      border-radius: 40px;
+    }
+  
+  
+    .p-4 {
+      font-family: Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 645px;
+      left: 110px;
+      color: gray;
+    }
+  
+    .p-5 {
+      font-family: Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 725px;
+      left: 110px;
+      color: gray;
+    }
+  
+    .p-6 {
+      font-family:Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 809.999999999999999999999999899999999999999997999985416982px;
+      left: 110px;
+      color: gray;
+    }
+  
+    .p-7 {
+      font-family: Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 910px;
+      left: 110px;
+      color: gray;
+    }
+  
+    .p-8 {
+      font-family: Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 965px;
+      left: 110px;
+      color: gray;
+    }
+  
+    .p-9 {
+      font-family:Arial, Helvetica, sans-serif;
+      color: gray;
+      position: absolute;
+      top: 1060px;
+      left: 110px;
+    }
+  
+    .p-10 {
+      font-family:Arial, Helvetica, sans-serif;
+      color: gray;
+      position: absolute;
+      top: 1150px;
+      left: 110px;
+    }
+  
+    /** end of the left side **/
+  
+
+
+
+    .body-2 {
+      box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+      width: 440px;
+      height: 680px;
+      margin-left: 465px;
+      position: absolute;
+      top: 1350px;
+      left: -390px;
+    }
+    
+    .logo-5 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      padding-left: 10px;
+    }
+    
+    .p-11 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 35px;
+      margin-top:55px ;
+    }
+    
+    .p-12 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #009688;
+      margin-left: 35px;
+    }
+    
+    span {
+      color: white;
+      background-color: #009688;
+      font-family: Arial, Helvetica, sans-serif;
+      border: #009688 5px solid;
+      border-radius: 10px ;
+    }
+    
+    .p-13 {
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 35px;
+    }
+    
+    .hr-2 {
+        border: 0;
+        border-top: 1px solid #eee;
+        margin: 20px 0;
+    }
+    
+    .p-14 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 35px;
+      margin-top: 35px;
+    }
+    .p-15 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #009688;
+      margin-left: 35px;
+    }
+    
+    .p-16 {
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 35px;
+    }
+    
+    .hr-3 {
+        border: 0;
+        border-top: 1px solid #eee;
+        margin: 20px 0;
+    }
+    
+    .p-18 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 35px;
+    }
+    
+    .p-19 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #009688;
+      margin-left: 35px;
+    }
+    
+    .p-20 {
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 35px;
+    }
+    
+    /** end of body-2 **/
+    
+    .body-3 {
+      box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+      width: 440px;
+      height: 630px;
+      margin-left: 465px;
+      position: absolute;
+      top: 2050px;
+      left: -390px;
+    }
+    
+    .p-21 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 30px;
+    }
+    
+    .p-22 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 35px;
+      margin-top:55px ;
+    }
+    
+    .p-23 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #009688;
+      margin-left: 35px;
+    }
+    
+    .p-24 {
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 35px;
+    }
+    
+    .hr-4 {
+      border: 0;
+      border-top: 1px solid #eee;
+      margin: 20px 0;
+    }
+    
+    .p-25 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 35px;
+      margin-top:55px ;
+    }
+    
+    .p-26 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #009688;
+      margin-left: 35px;
+    }
+    
+    .p-27 {
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 35px;
+    }
+    
+    .hr-5 {
+      border: 0;
+      border-top: 1px solid #eee;
+      margin: 20px 0;
+    }
+    
+    
+    .p-28 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: gray;
+      margin-left: 35px;
+      margin-top:55px ;
+    }
+    
+    .p-29 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #009688;
+      margin-left: 35px;
+    }
+    
+    .p-30 {
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 35px;
+    }
+    
+    .hr-6 {
+      border: 0;
+      border-top: 1px solid #eee;
+      margin: 20px 0;
+    }
+    
+    /** end of body-3 **/
+    
+    .foot {
+      width: 460px;
+      height: 140px;
+      margin-left: 465px;
+      position: absolute;
+      top: 2700px;
+      left: -400px;
+      background-color: #009688;
+    }
+
+    .p-31 {
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 0px;
+      left: 150px;
+    }
+    
+    .w3-hover-opacity {
+      color: white;
+    }
+    
+    .fa-facebook-official {
+      position: absolute;
+      left: 170px;
+      top: 55px;
+    }
+    
+    .fa-instagram {
+      position: absolute;
+      left: 190px;
+      top: 55px;
+    }
+    
+    .fa-snapchat {
+      position: absolute;
+      left: 210px;
+      top: 55px;
+    }
+    
+    .fa-pinterest-p {
+      position: absolute;
+      left: 230px;
+      top: 55px;
+    }
+    
+    .fa-twitter {
+      position: absolute;
+      left: 250px;
+      top: 55px;
+    }
+    
+    .fa-linkedin {
+      position: absolute;
+      left: 270px;
+      top: 55px;
+    }
+    
+    .last {
+      color: white;
+      position: absolute;
+      top: 70px;
+      left: 170px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .a {
+      color: white;
+    }
+  }

@@ -1,0 +1,252 @@
+@media only screen and (max-width:990px) {
+    .body-2 {
+        box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+        width: 440px;
+        height: 680px;
+        margin-left: 465px;
+        position: absolute;
+        top: 10px;
+        left: 58px;
+      }
+      
+      .logo-5 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+        padding-left: 10px;
+      }
+      
+      .p-11 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+        margin-left: 35px;
+        margin-top:55px ;
+      }
+      
+      .p-12 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #009688;
+        margin-left: 35px;
+      }
+      
+      span {
+        color: white;
+        background-color: #009688;
+        font-family: Arial, Helvetica, sans-serif;
+        border: #009688 5px solid;
+        border-radius: 10px ;
+      }
+      
+      .p-13 {
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 35px;
+      }
+      
+      .hr-2 {
+          border: 0;
+          border-top: 1px solid #eee;
+          margin: 20px 0;
+      }
+      
+      .p-14 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+        margin-left: 35px;
+        margin-top: 35px;
+      }
+      .p-15 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #009688;
+        margin-left: 35px;
+      }
+      
+      .p-16 {
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 35px;
+      }
+      
+      .hr-3 {
+          border: 0;
+          border-top: 1px solid #eee;
+          margin: 20px 0;
+      }
+      
+      .p-18 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+        margin-left: 35px;
+      }
+      
+      .p-19 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #009688;
+        margin-left: 35px;
+      }
+      
+      .p-20 {
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 35px;
+      }
+      
+      /** end of body-2 **/
+      
+      .body-3 {
+        box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+        width: 440px;
+        height: 630px;
+        margin-left: 465px;
+        position: absolute;
+        top: 710px;
+        left: 58px;
+      }
+      
+      .p-21 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+        margin-left: 30px;
+      }
+      
+      .p-22 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+        margin-left: 35px;
+        margin-top:55px ;
+      }
+      
+      .p-23 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #009688;
+        margin-left: 35px;
+      }
+      
+      .p-24 {
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 35px;
+      }
+      
+      .hr-4 {
+        border: 0;
+        border-top: 1px solid #eee;
+        margin: 20px 0;
+      }
+      
+      .p-25 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+        margin-left: 35px;
+        margin-top:55px ;
+      }
+      
+      .p-26 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #009688;
+        margin-left: 35px;
+      }
+      
+      .p-27 {
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 35px;
+      }
+      
+      .hr-5 {
+        border: 0;
+        border-top: 1px solid #eee;
+        margin: 20px 0;
+      }
+      
+      
+      .p-28 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+        margin-left: 35px;
+        margin-top:55px ;
+      }
+      
+      .p-29 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #009688;
+        margin-left: 35px;
+      }
+      
+      .p-30 {
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 35px;
+      }
+      
+      .hr-6 {
+        border: 0;
+        border-top: 1px solid #eee;
+        margin: 20px 0;
+      }
+      
+      /** end of body-3 **/
+      
+      .foot {
+        width: 900px;
+        height: 140px;
+        margin-left: 465px;
+        position: absolute;
+        top: 1350px;
+        left: -400px;
+        background-color: #009688;
+      }
+  
+      .p-31 {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;
+        top: 0px;
+        left: 400px;
+      }
+      
+      .w3-hover-opacity {
+        color: white;
+      }
+      
+      .fa-facebook-official {
+        position: absolute;
+        left: 430px;
+        top: 55px;
+      }
+      
+      .fa-instagram {
+        position: absolute;
+        left: 450px;
+        top: 55px;
+      }
+      
+      .fa-snapchat {
+        position: absolute;
+        left: 470px;
+        top: 55px;
+      }
+      
+      .fa-pinterest-p {
+        position: absolute;
+        left: 490px;
+        top: 55px;
+      }
+      
+      .fa-twitter {
+        position: absolute;
+        left: 510px;
+        top: 55px;
+      }
+      
+      .fa-linkedin {
+        position: absolute;
+        left: 270px;
+        top: 530px;
+      }
+      
+      .last {
+        color: white;
+        position: absolute;
+        top: 70px;
+        left: 410px;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      
+      .a {
+        color: white;
+      }
+}
